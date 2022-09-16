@@ -1,0 +1,2 @@
+# odevler
+kodluyoruz-odevler
